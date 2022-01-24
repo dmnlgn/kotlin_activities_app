@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dracula</string>
+    <string name="buttonAdd">ADD</string>
+<!--    MAIN    -->
+    <string name="activities">ACTIVITIES</string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="stopwatch">STOPWATCH</string>
+    <string name="countdown_timer">COUNTDOWN TIMER</string>
+    <string name="database_operations">DATABASE OPERATIONS</string>
+    <string name="change_language">CHANGE LANGUAGE</string>
+<!--    KALKULATOR    -->
+    <string name="first_val">First value</string>
+    <string name="second_val">Second value</string>
+<!--    BAZA DANYCH    -->
+    <string name="database_name">Name</string>
+    <string name="database_surname">Surname</string>
+    <string name="database_position">Position</string>
+    <string name="database_club">Club</string>
+    <string name="database_nationality">Nationality</string>
+    <string name="database_age">Age</string>
+
+    <string name="enter_name">enter name...</string>
+    <string name="enter_surname">enter surname...</string>
+    <string name="enter_position">enter position...</string>
+    <string name="enter_club">enter club...</string>
+    <string name="enter_nationality">enter nationality...</string>
+    <string name="enter_age">enter age...</string>
+
+    <string name="add_player">ADD PLAYER</string>
+    <string name="show_player">SHOW PLAYER</string>
+    <string name="show_all_players">SHOW ALL PLAYERS</string>
+    <string name="delete_player">DELETE PLAYER</string>
+    <string name="reset_data">RESET DATA</string>
+    <!--    STOPER    -->
+    <string name="stopwatch_start">START</string>
+    <string name="stopwatch_next_round">NEXT ROUND</string>
+    <string name="stopwatch_stop">STOP</string>
+    <string name="stopwatch_reset">RESET</string>
+    <string name="stopwatch_records">RECORDS</string>
+</resources>

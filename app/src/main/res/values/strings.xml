@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dracula</string>
+    <string name="buttonAdd">ADD</string>
+    <!--    MAIN    -->
+    <string name="activities">AKTYWONOŚCI</string>
+    <string name="calculator">KALKULATOR</string>
+    <string name="stopwatch">STOPER</string>
+    <string name="countdown_timer">MINUTNIK</string>
+    <string name="database_operations">OPERACJE NA BAZACH DANYCH</string>
+    <string name="change_language">ZMIEŃ JĘZYK</string>
+    <!--    KALKULATOR    -->
+    <string name="first_val">Pierwsza wartość</string>
+    <string name="second_val">Druga wartość</string>
+    <!--    BAZA DANYCH    -->
+    <string name="database_name">Imię</string>
+    <string name="database_surname">Nazwisko</string>
+    <string name="database_position">Pozycja</string>
+    <string name="database_club">Klub</string>
+    <string name="database_nationality">Narodowość</string>
+    <string name="database_age">Wiek</string>
+
+    <string name="enter_name">wpisz imię...</string>
+    <string name="enter_surname">wpisz nazwisko...</string>
+    <string name="enter_position">wpisz pozycję...</string>
+    <string name="enter_club">wpisz klub...</string>
+    <string name="enter_nationality">wpisz narodowość...</string>
+    <string name="enter_age">wpisz wiek...</string>
+
+    <string name="add_player">DODAJ GRACZA</string>
+    <string name="show_player">POKAŻ GRACZA</string>
+    <string name="show_all_players">POKAŻ WSZYSTKICH GRACZY</string>
+    <string name="delete_player">USUŃ GRACZA</string>
+    <string name="reset_data">ZRESETUJ DANE</string>
+    <!--    STOPER    -->
+    <string name="stopwatch_start">START</string>
+    <string name="stopwatch_next_round">NASTĘPNA RUNDA</string>
+    <string name="stopwatch_stop">STOP</string>
+    <string name="stopwatch_reset">RESET</string>
+    <string name="stopwatch_records">REKORDY</string>
+</resources>
